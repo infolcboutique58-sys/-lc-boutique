@@ -1,0 +1,29 @@
+lc-boutique/
+│
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   ├── globals.css
+│   ├── shop/
+│   ├── cart/
+│   ├── checkout/
+│   ├── uomo/
+│   ├── donna/
+│   ├── scarpe/
+│   └── borse/
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── Footer.tsx
+│   ├── Hero.tsx
+│   ├── ProductCard.tsx
+│   ├── Cart.tsx
+│   └── Checkout.tsx
+│
+├── public/
+│   ├── logo.png
+│   ├── hero.jpg
+│   └── products/
+│
+├── package.json
+└── next.config.js
